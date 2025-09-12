@@ -1,0 +1,247 @@
+talks given:
+GST:
+
+April 26, 2022
+End Spaces and Compact Closures (with Ana Wright)
+
+This talk was given alongside Ana Wright, where we talked about ends of a topological space to a group of faculty and graduate students
+
+October 25, 2022
+Conjugacy Growth Series in right-angled Artin groups
+
+When looking at a group, one question we can ask is how many elements of the group can be written with a certain number of generators. We can then use this information to construct a generating function (the element growth series) related to the group. Doing this same idea with conjugacy classes instead produces the conjugacy growth series. 
+Over the summer, I did some work with Susan Hermiller, Audrey Goodnight, and Sam Monkman, where we found the conjugacy growth series of various right-angled Artin groups; these are a fun class of groups that are defined by a set of generators and relations that allow certain pairs of generators to commute past one another. This talk will likely end with a brief overview of the process and code used to find the conjugacy growth series, and a light application to show that a relationship between the Euler characteristic of a right-angled Artin group and its element growth series doesn't translate to the conjugacy growth series.
+
+2023-09-12
+The Word Problem is Solvable for 3-free Artin groups in Quadratic Time
+
+Talk is on a paper of [?]
+
+2024-04-02
+Building the
+Homology of a Group from a Finite Convergent Rewriting System
+
+One important invariant of groups is the homology of the
+group, which can be determined by looking at the homology of a space
+we can build off the presentation complex - an Eilenberg-Maclaine
+Space, also known as a K(G,1). While this is highly topological,
+this connects nicely with a more linguistic property, that of having
+a finite convergent rewriting system. In this talk, we will start
+by defining both the homology of a group and a finite convergent
+rewriting system, then use that to build the second homology of
+a group from a rewriting system.
+
+2024-10-08
+An introduction to Modular Machines
+
+[no abstract]
+
+2025-03-25
+
+An Introduction to Autostackable Groups
+
+[no abstract]
+
+GST2:
+
+2024-09-30
+
+Title: Ok, but how (un)solvable is the Word Problem?
+
+Abstract: We learn in 911 that you can't just plug any word in some (finitely-presented) group into a computer and have it tell you if that word is secretly the identity. But, 'unsolvable' is just about the same as 'infinite' in that there is a lot more detail that you can get into with that. So, the question arises, where does the word problem fit into that? And what do we know about groups whose word problems are solvable in specific ways?
+This talk should be introductory to automata and computability theory and its application to groups; I hope to only be assuming stuff up to what we currently have in 911 - what a group is, some properties, and the Cayley graph. 
+
+2025-02-28
+
+Playing with examples of autostackable groups
+
+This is going to be a little bit of a different talk than my usual, we'll be defining a broad class of groups with solvable word problem, and working through some examples together. I'm expecting this to be somewhere between a research talk, a co-working session, an interactive demonstration, and a preview of the groups I will be talking about in GST in a few weeks. We will very much see how this talk goes :)
+
+----------------------------------------------
+classes taught:
+
+LA at UMBC (PHYS122) - FA18, SP19
+Grader at UMBC (MATH301) - SP20, SU20, FA20; (MATH407) - SP21
+
+FA21 - 106R x2
+SP22 - 106R x2
+SU22 - 203
+
+FA22 - 203J
+SP23 - 203
+SU23 - MAT Theis GTA Advisor
+SU23 - 802T Grader
+SU23 - 203 Course Development
+
+FA23 - 203-700
+SP24 - 103
+SU24 - Research for Quantum Grant
+
+FA24 - 104 Grader
+SP25 - 301
+SU25 - MAT Thesis GTA Advisor
+SU25 - Research for Quantum Grant
+
+SU25, FA25, SP25 - LA Program Associate Convener
+FA25 - 208R x3
+FA25 - Math97
+
+------------------------------------------------
+Courses Taken
+
+UMBC: (https://catalog.umbc.edu/content.php?catoid=25&catoid=25&navoid=1554&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=7#acalog_template_course_filter)
+CMSC 304 - Social and Ethical Issues in Information Technology
+
+A survey course that reviews social issues and the ethical impact of information technology throughout the world. The course examines the policy issues that relate to the use of information technology, such as persona, privacy, rights of access, security, transborder information flow and confidentiality. 
+
+CMSC 341 - Data Structures
+
+An examination of a range of advanced data structures, with an emphasis on an object-oriented approach. Topics include asymptotic analysis; various binary search trees, including red-black and splay trees; skip lists as alternatives to binary search trees; data structures for multidimensional data such as K-D trees; heaps and priority queues, including binary heaps, binomial heaps, leftist heaps (and/or other mergeable heaps); B-trees for external storage; other commonly used data structures, such as hash tables and disjoint sets. Programming projects in this course will focus on implementation issues for data structures and on empirical analysis of their asymptotic performance. 
+
+CMSC 411 - Computer Architecture
+
+This course covers the design of complex computer systems making heavy use of the components and techniques discussed in CMSC 313, CMPE 212 and CMPE 310. All parts of the computer system - CPU, memory and input/output - are discussed in detail. Topics include information representation, floating-point arithmetic, instructions set design issues (RISC vs. CISC), microprogrammed control, hardwired control, pipelining, memory caches, bus control and timing,input/output mechanism and issues in the construction of parallel processors. 
+
+CMSC 421 - Principles of Operating Systems
+
+An introduction to the fundamentals of operating systems. Topics include interprocess communication, process scheduling, deadlock, memory management, virtual memory, file systems and distributed systems. Formal principles are illustrated with examples and case studies of one or more contemporary operating systems. 
+
+CMSC 433 - Scripting Languages
+
+This course is a study of a class of programming languages and tools known as scripting languages. Topics include: writing scripts to control and connect other programs, strengths and weaknesses of interpreted languages, extending scripting languages to include new functionality, embedding functions of a scripting language in other tools, and the syntax and usage of regular expressions. Programming projects in multiple languages will be required. 
+
+CMSC 441 - Design and Analysis of Algorithms.
+
+This course studies fundamental algorithms, strategies for designing algorithms, and mathematical tools for analyzing algorithms. Fundamental algorithms studied in this course include algorithms for sorting and searching, hashing, and graph algorithms. Mathematical tools include asymptotic notations and methods for solving recurrences. Algorithm design strategies include the greedy method, divide-and-conquer, dynamic programming, and randomization. 
+
+CMSC 447 - Software Engineering I
+
+This course introduces the basic concepts of software engineering, including software life cycle, requirements analysis and software design methods. Professional ethics in computer science and the social impact of computing are discussed as an integral part of the software development process. Additional topics may include tools for software development, software testing, software metrics and software maintenance.
+
+CMSC 461 - Database Management Systems
+
+This course covers database management and the different data models used to structure the logical view of databases. The course also covers database design and implementation techniques, including file organization, query processing, concurrency control, recovery, integrity and security. 
+
+CMSC 491 - Intro to Data Science
+
+Data science is a field that involves data manipulation, analysis, and presentation, all at scale. It’s typical for an organization to have a few terabytes of data maintained for different purposes by different business units stored in different formats and for someone to have an idea about how the data might bring significant value, often uncovering novel insights and novel beneficial ways to use the data in the process. 
+
+MATH 404 - Introduction to Partial Differential Equations I
+
+Linear and quasi-linear first order equations, method of characteristics, linear second order equations,derivations, classifications, and fundamental solutions, integral transforms, self-adjoint operators, Sturm-Liouville problems and eigenfunction expansions, Fourier series, boundary and initial value problem for potential, wave, and heat equations, Green’s functions, and distributions. 
+
+MATH 407 - Intro to Modern Algebra & Number Theory
+
+The basic abstract algebraic structures (rings, integral domains, division rings, fields and Boolean algebra) will be introduced, and the fundamental concepts of number theory will be examined from an algebraic perspective. This will be done by examining the construction of the natural numbers from the Peano postulates, the construction of the integers from the natural numbers, the rationals as the field of quotients of the integers, the reals as the ordered field completion of the rationals and the complex numbers as the algebraic completion of the reals. The basic concepts of number theory lead to modular arithmetic; ideals in rings; and to examples of integral domains, division rings and fields as quotient rings. The concept of primes yields the algebraic concepts of unique factorization domains, Euclidean rings, and prime and maximal ideals of rings. Examples of symmetries in number theory and geometry lead to the concept of groups whose fundamental properties and applications will be explored. 
+
+MATH 408 - Introduction to Abstract Algebra
+
+Topics of this course include a deeper examination of the structure of groups, including Sylow theorems and the fundamental theorem of abelian groups; a further study of rings, including modules and linear algebra over rings; polynomial and matrix rings; field theory, including Galois theory; and applications such as nonsolubility of quintic polynomials by radicals and geometric nonconstructilibity. 
+
+MATH 409 - Introduction to Mathematical Logic
+
+Propositional and first-order logic are developed. The basic framework of formal languages, logical structures and their models is given. Formal deductive systems for logical proofs is set in an algorithmic framework. The completeness and compactness theorems for consistent axiom systems are proven, including the Lowenheim-Skolem theorems. The last half of the course focuses on the work of Goedel. Using Goedel’s numbering of number theoretic formulae and proofs, his theorem asserting the incompleteness (inability to prove all true statements) of any consistent axiomatization of the natural numbers that is recursively given are proven. Related results of Tarski and Rosser, his second incompleteness theorem; the impossibility of Peano arithmetic, if consistent, to prove its own consistency are also proven. Time permitting, the course will introduce Goedel’s proof of the consistency of Cantor’s continuum hypothesis and axiom of choice with the usual axioms of set theory. 
+
+MATH 411 - Linear Algebra
+
+Topics of this course include finite-dimensional vector spaces, subspaces, basis, dimension, linear transformations, matrices, linear functionals, dual space, dual-basis theorem, direct sum, quotient space, determinants, eigenvalues, minimal polynomial, characteristic polynomial, Cayley-Hamilton theorem, companion matrices, invariant subspaces, similarity, diagonalization, rational and Jordan canonical forms, nilpotent operators, inner product spaces, Gram-Schmidt orthogonalization, orthogonal matrices and spectral theorem.
+
+MATH 413 - Number Theory
+
+Following a review of elementary number theory through Fermat’s little theorem, the course treats: unique factorization, element orders, Euler’s function and Carmichael’s lambda functions, primitive elements, quadratic reciprocity, the prime-number theorem and elementary analytic number theory, and quadratic number fields. Optional topics may include: computational number theory, finite fields, cyclotomic fields and Fermat’s last theorem. 
+
+MATH 421 - Introduction to Topology
+
+Topics of this course include metric spaces, topological spaces, derived topological spaces, separation axioms, closure and continuity, covering properties and compactness, connectedness, metrizability, complete metric spaces, and introduction to homotopy theory. 
+
+MATH 430 - Matrix Analysis
+
+Topics in this course will include a review of basic matrix operations, determinants, rank, matrix inverse and solving linear equations. The course then will study partitioned matrices, eigenvalues and eigenvectors, spectral decomposition, singular-value decomposition, orthogonal projections, idempotent matrices, quadratic forms, extrema of quadratic forms, non-negative definite and positive definite matrices, and matrix derivatives. 
+
+MATH 487 - Continuous Dynamical Systems
+
+This course aims to develop an understanding of the theory behind the rich qualitative behavior of dynamical systems modeled by ordinary differential equations. Topics covered includes existence and uniqueness of solutions, linear systems, characterization of behavior near equilibria, stability and Lyapunov functions, Hartman- Grobman theorem, Poincaré-Bendixson theorem, Hamiltonian systems, bifurcations and chaos. 
+
+MATH601 - Measure Theory
+
+Measure and integration: sigma-algebras, measures, outer measures, Borel measures on R, measurable functions, integration of non-negative functions, mode of convergence, product measures, Lebesgue integral on R, decomposition and differentiation of measures, signed measures, the Lebesgue- Radon-Nikodym theorem, differentiation on R, functions of bounded variation spaces, basic theory of Lp spaces and the dual of Lp.
+
+UNL:
+
+CSCE 828 - Automata, Computation, and Formal Languages
+
+Introduction to the classical theory of computer science. Finite state automata and regular languages, minimization of automata. Context free languages and pushdown automata, Turing machines and other models of computation, undecidable problems, introduction to computational complexity.
+
+MATH 817 - Introduction to Modern Algebra I
+
+Topics from elementary group theory and ring theory, including fundamental isomorphism theorems, ideals, quotient rings, domains. Euclidean or principal ideal rings, unique factorization, modules and vector spaces including direct sum decompositions, bases, and dual spaces.
+
+MATH 818 - Introduction to Modern Algebra II
+
+Topics from field theory including Galois theory and finite fields and from linear transformations including characteristic roots, matrices, canonical forms, trace and transpose, and determinants.
+
+MATH 850 - Discrete Mathematics I
+
+Enumeration of standard combinatorial objects (subsets, partitions, permutations). Structure and existence theorems for graphs and sub-graphs. Selected classes of error-correcting codes. Extremal combinatorics of graphs, codes, finite sets and posets.
+
+MATH 852 - Discrete Math II
+
+Enumeration of standard combinatorial objects (subsets, partitions, permutations). Structure and existence theorems for graphs and sub-graphs. Selected classes of error-correcting codes. Extremal combinatorics of graphs, codes, finite sets and posets.
+
+MATH 871 - Topology I
+
+Topological spaces, continuous functions, product and quotient spaces, compactness and connectedness, homotopy, fundamental groups.
+
+MATH 872 - Topology II
+
+Fundamental groups and the van Kampen theorem, covering spaces and the Galois correspondence, applications to groups, homology and the Mayer-Vietoris theorem.
+
+MATH 893 - Pedagogy
+
+[no description atm]
+
+MATH 905 - Commutative Algebra I
+
+A first course in commutative algebra covering core topics in the field including noetherian rings, graded rings, localization, Nakayama's lemma, integral extensions, primary decomposition, Hilbert functions, and dimension theory.
+
+MATH 911 - Theory of Groups
+
+Basic topics of infinite and finite group theory from among geometric, combinatorial, and algorithmic group theory, homology of groups, solvable and nilpotent groups and representation theory.
+
+MATH 921 - Real Analysis I
+
+Semicontinuity, equicontinuity, absolute continuity, metric spaces, compact spaces, Ascoli's theorem, Stone Weierstrass theorem, Borel and Lebesque measures, measurable functions, Lebesque integration, convergence theorems, Lp spaces, general measure and integration theory, Radon-Nikodyn theorem, Fubini theorem, Lebesque-Stieltjes integration.
+
+MATH 922 - Real Analysis II
+
+Semicontinuity, equicontinuity, absolute continuity, metric spaces, compact spaces, Ascoli's theorem, Stone Weierstrass theorem, Borel and Lebesque measures, measurable functions, Lebesque integration, convergence theorems, Lp spaces, general measure and integration theory, Radon-Nikodyn theorem, Fubini theorem, Lebesque-Stieltjes integration.
+
+MATH 971 - Low Dimensional Topology
+
+Foundational topics in low-dimensional topology: Surfaces and 3- and 4-manifolds, geometric structures on manifolds, classification and canonical decompositions, knot theory; applications.
+
+MATH 990 - Topics in Topology
+
+[figure out one]
+
+MATH 993 - Topics in Math Education Research
+
+Who? 
+Any grad student in the math department who wants to dive into what it means to teach, what it means to learn, and why our school system in the US is the way it is.
+
+What?
+We'll discuss--what is truth in science, social science, and math? How do we measure things we might care about with respect to math education? What are ways that scholars have defined math anxiety, math identity, and math self-efficacy? What are different ways to parse the concept of "teaching"?
+
+When?
+TR 12:30-1:45pm (you are welcome to bring your lunch if you want)
+
+Where?
+Here.
+
+How?
+Lots of questions and conversations about the nature of math, teaching, and learning, and all non-empty combinations of those three things.
+
+Why?
+Because education is fundamental, and paramount.
+
+

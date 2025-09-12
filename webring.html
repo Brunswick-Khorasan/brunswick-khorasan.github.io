@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--
+Written by Petra Lynn Vanderhei
+(i.e., hello, this is one of my projects :) )
+If you're seeing this and want help making a website, I have some experience and can help to look things up!
+If this site does not work, then use firefox - if you are on firefox and it doesn't work, apologies
+-->
+<html lang="en">
+<head><title>Cool People - PLVWeb</title>
+<meta charset="utf-8" />
+<meta name="description" content="Petra Lynn Vanderhei's Personal Website'" />
+<meta name="author" content="Petra Lynn Vanderhei" />
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" />-->
+<link rel="shortcut icon" href="favicon.png" />
+<link rel="stylesheet" href="mainstyle.css">
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container > * {
+  margin: 10px 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+</head>
+<body>
+  <header>
+    <h1>Cool people</h1>
+    <div class="nav">
+      <a href="index.html">Home page</a>
+        <div class=dropdown>Academic Work &#8626;
+          <div class=dropdown-content>
+            <a href="talks.html">Talks Given</a>
+            <hr/>
+            <a href="">Classes Taught</a>
+            <hr/>
+            <a href="">Classes Taken</a>
+          </div>
+        </div>
+      <a href="projects.html">Projects</a>
+      <a href="webring.html">Collaborators</a>
+      <a href="">Another link</a>
+    </div>
+  </header>
+  <main>
+    <p>People I have worked with / know / otherwise want to include their links</p>
+    <div style="text-align:center" class="container">
+      <fieldset><img class=center src="webring/maciej.jpg" style="width:10em;" /><p><a target="_blank" href="https://maciejpiwowarczyk6.wixsite.com/portfolio">Maciej Piwoarczyk</a></p></fieldset>
+      <fieldset><img class=center src="webring/johan.jpg" style="width:10em;"/><p><a target="_blank" href="https://www.johanmath.com/">Johan Cristobal</a></p></fieldset>
+      <fieldset><img class=center src="webring/kathryn.jpeg" style="width:10em;"/><p><a target="_blank" href="https://math.unl.edu/person/kathryn-van-etten/">Kathryn van Etten</a></p></fieldset>
+      <fieldset><img class=center src="webring/audrey.png" style="width:10em;"/><p><a target="_blank" href="https://math.unl.edu/person/audrey-goodnight/">Audrey Goodnight</a></p></fieldset>
+      <fieldset><img class=center src="placeholder.png" style="width:10em;"/><p><a target="_blank" href="https://www.linkedin.com/in/tzara-northcut/">Tzara Northcut</a></p></fieldset>
+      <fieldset><img class=center src="placeholder.png" style="width:10em;"/><p><a target="_blank" href="https://math.unl.edu/person/alex-myers/">Alex Myers</a></p></fieldset>
+      <fieldset><img class=center src="placeholder.png" style="width:10em;"/><p><a target="_blank" href="https://sabrinafowler.github.io./">Sabrina Klement</a></p></fieldset>
+      <fieldset><img class=center src="placeholder.png" style="width:10em;"/><p><a target="_blank" href="">Charlotte Beatrice Wolfe</a></p></fieldset>
+      <fieldset><img class=center src="placeholder.png" style="width:10em;"/><p><a target="_blank" href="https://saraamue.github.io/">Sara Mueller</a></p></fieldset>
+      <fieldset><img class=center src="placeholder.png" style="width:10em;"/><p><a target="_blank" href="">Name Lastname</a></p></fieldset>
+    </div>
+  </main>
+</body>
+</html>
