@@ -21,5 +21,8 @@ def update(*filenames,basefile='base.html'):
         print('Replacing header')
         filetext = re.sub(r'<header>.*<\/header>',newheader,filetext,flags=re.DOTALL)
         print(filetext)
+        with open(filename,'w') as file:
+            file.write(filetext)
+            
 
 update()
